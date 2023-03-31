@@ -1,0 +1,11 @@
+WMOSeaStateCode,WaveHeight_Min (m),WaveHeight_Max (m),Characteristics
+0,0,0,GlassyCalm
+1,0,0.1,RippledCalm
+2,0.1,0.5,SmoothWavelets
+3,0.5,1.25,Slight
+4,1.25,2.5,Moderate
+5,2.5,4,Rough
+6,4,6,VeryRough
+7,6,9,High
+8,9,14,VeryHigh
+9,14,,Phenomenal
